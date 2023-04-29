@@ -1,0 +1,26 @@
+{
+  "name": "neptune-dark-themes",
+  "displayName": "Neptunium Themes",
+  "description": "VSCODE themes",
+  "version": "0.0.1",
+  "publisher": "Neptune",
+  "repository": {
+    "type": "git",
+    "url": "https://g"
+  },
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Beach Sand",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Beach-Sand.json"
+      }
+    ]
+  }
+}
