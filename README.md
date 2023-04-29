@@ -1,4 +1,4 @@
-# neptunes-theme-color README
+# Neptune's Theme README
 
 ## Working with Markdown
 

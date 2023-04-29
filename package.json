@@ -3,16 +3,24 @@
   "displayName": "Neptunium Themes",
   "description": "VSCODE themes",
   "version": "0.0.1",
-  "publisher": "Neptune",
+  "publisher": "N3ptunium",
   "repository": {
     "type": "git",
-    "url": "https://g"
+    "url": "https://github.com/NepNepNeppu/Custom-Themes"
   },
   "engines": {
     "vscode": "^1.77.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "itz_n3p",
+    "nep",
+    "beach",
+    "sand"
   ],
   "contributes": {
     "themes": [
