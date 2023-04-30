@@ -1,6 +1,5 @@
 {
-	"$schema": "vscode://schemas/color-theme",
-	"type": "dark",
+	"name": "Beach Sand",
 	"colors": {
 		"activityBar.activeBackground": "#313b4c",
 		"activityBar.background": "#1c222c",
@@ -37,7 +36,7 @@
 		"tab.activeForeground": "#7da2b6",
 		"tab.border": "#313b4c",
 		"tab.inactiveBackground": "#202732",
-		"tab.inactiveForeground": "#7e8ba0",
+		"tab.inactiveForeground": "#7e8ba0"
 	},
 	"tokenColors": [
 		{
