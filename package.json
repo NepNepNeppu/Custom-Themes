@@ -1,8 +1,8 @@
 {
-  "name": "neptune-dark-themes",
+  "name": "neptune-themes",
   "displayName": "Neptunium Themes",
   "description": "VSCODE themes",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "N3ptunium",
   "repository": {
     "type": "git",
@@ -27,6 +27,11 @@
         "label": "Nier Automata",
         "uiTheme": "vs-dark",
         "path": "./themes/Nier-Automata.json"
+      },
+      {
+        "label": "Beach Sand",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Beach-Sand.json"
       }
     ]
   }
