@@ -16,18 +16,17 @@
   ],
   "keywords": [
     "theme",
-    "dark theme",
     "itz_n3p",
     "nep",
-    "beach",
-    "sand"
+    "nier",
+    "automata"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "Beach Sand",
+        "label": "Nier Automata",
         "uiTheme": "vs-dark",
-        "path": "./themes/Beach-Sand.json"
+        "path": "./themes/Nier-Automata.json"
       }
     ]
   }
